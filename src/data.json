@@ -1,0 +1,134 @@
+{
+    "home":{
+        "greeting":"Hey,there ",
+        "name":"I'm Shanmuga priya",
+        "title":"Front End Developer",
+        "bio":"Passionate about building impactful web applications"
+    },
+    "about":{
+        "title":"About Me",
+        "description":"Hello, I'm Shanmuga Priya, an engineering student specializing in Information Technology.I am a highly motivated individual with a strong passion for continuous learning and technological innovation. My academic background, combined with a proactive approach to acquiring new skills, drives me to create meaningful and efficient solutions.I am eager to contribute to dynamic and forward-thinking organizations, where I can apply my knowledge, grow professionally, and add value through dedication and innovation."
+    },
+
+    
+        "skills": [
+          { "name": "REACT", "logo": "react.png" },
+          { "name": "HTML", "logo": "html.png" },
+          { "name": "CSS", "logo": "css.png" },
+          { "name": "JAVASCRIPT", "logo": "js.png" },
+          { "name": "FIGMA", "logo": "figma.png" }
+        ],
+    
+      
+    "projects":[
+        {
+            "title":"Weather Forecast",
+            "description":"A responsive React‑powered single‑page application that lets users search any city worldwide to retrieve  weather data, featuring  search, current conditions (temperature, humidity, wind speed), a 5‑day forecast, unit toggling between Celsius and Fahrenheit, dynamic backgrounds and icons matching condition. Built using React, Tailwind CSS,  the OpenWeatherMap API.",
+            "demo":"https://drive.google.com/file/d/1YAN7VmIjY8FKt4Tr8z24WH1akkpX8Jzv/view?usp=sharing",
+            "link":""
+        },
+        {
+            "title":"Movie ",
+            "description":"Displays movies fetched from the OMDB API. Users can search for any title, add movies to a favorites list, and remove them. Fully responsive design. Built using React hooks and state for managing application state.",
+            "demo":"https://drive.google.com/file/d/1Tq3NTaE5G2FyBbdpu_NnYl1l2Qbui-Le/view?usp=sharing",
+            "link":""
+        },
+        {
+            "title":"Portfolio",
+            "description":"A fully responsive personal portfolio built using React. It includes sections like Home, About, Projects, Skills, and Contact, with dynamic rendering based on JSON data. It features smooth scroll behavior, scroll-based animations, image hover effects, and interactive UI elements. Tailwind CSS is used for styling and layout. React hooks like useState, useEffect are used for managing component states and animations. state is managed cleanly across components for interactivity.",
+            "demo":"ertyui",
+            "link":""
+        },
+        {
+            "title":"To-Do-List",
+            "description":"A simple yet functional To-do List application built using React. It allows users to add, update, delete, and mark tasks as completed. State is managed using useState, and the UI updates dynamically based on user interactions. The app maintains a clean and responsive layout using  CSS. React hooks are utilized for interactivity, and each task component is handled efficiently with clear component structuring.",
+            "demo":"https://drive.google.com/file/d/1S71-7iqIRpI_GjYDiTEUKsQQ7Cr0pitm/view?usp=sharing",
+            "link":""
+        },
+        {
+            "title":"Book-Worms",
+            "description":"A static website built using pure HTML and CSS, designed to showcase a collection of books for readers. It features structured sections like homepage, book categories, and details, with basic styling and layout. The site focuses on presenting content clearly .",
+            "demo":"https://drive.google.com/file/d/1Xm9sVM0wWBRzBSMyHvhe6TUGarQEnRKC/view?usp=sharing",
+            "link":""
+        },
+        {
+            "title":"Thoughts",
+            "description":"A creative UI/UX design project built in Figma, inspired by Pinterest's clean and modern layout. The design features a visually appealing grid system with user-friendly navigation, card-based content structure, and a minimalist aesthetic. It focuses on enhancing usability while maintaining a sleek  layout, tailored for a smooth user experience .",
+            "demo":"https://drive.google.com/file/d/15Km3RU-NtrIKZ7474DyA0l0kXXvXq08o/view?usp=sharing",
+            "link":""
+        }
+    ],
+    "certifications":[
+        {
+            "pht":"ap.jpg",
+            "link":"https://drive.google.com/file/d/1o3tLdqFe31ivGdPRiiHyP-CYWBouCDcU/view?usp=sharing"
+        },
+        {
+            "pht":"cr1.jpg",
+            "link":"https://drive.google.com/file/d/1iL1Sy28qpk58vw6QX7_se_RQbYVjkwo6/view?usp=sharing"
+        },
+        {
+            "pht":"cr2.jpg",
+            "link":"https://drive.google.com/file/d/1iL1Sy28qpk58vw6QX7_se_RQbYVjkwo6/view?usp=sharing"
+        },
+        {
+           
+            "pht":"fp.jpg",
+            "link":"https://drive.google.com/file/d/1uU7ICcnRwX2_sJRZNCtza4WYWaPofpiB/view?usp=sharing"
+        },
+        {
+           
+            "pht":"ru.jpg",
+            "link":"https://drive.google.com/file/d/1iox7YSzcgjvvxuheLjNLRBuIN6XR8oEl/view?usp=sharing"
+        },
+        {
+           
+            "pht":"kg1.jpg",
+            "link":"https://drive.google.com/file/d/1f0PpHDyj12vqRzZFb5DCQpJVnQY0L-8A/view?usp=sharing"
+        },
+        {
+         
+            "pht":"mga.jpg",
+            "link":"https://drive.google.com/file/d/1De1yNyYX6VnwRhVrQGR4J1ltBxC4yxGf/view?usp=sharing"
+        },
+        {
+          
+            "pht":"phy.jpg",
+            "link":"https://drive.google.com/file/d/1eBZEljIFurdBSDe9iHPd_w2wbj6wQBd8/view?usp=sharing"
+        },
+        {
+            "pht":"cer.jpg",
+            "link":"https://drive.google.com/file/d/106ThQIvCdrVbstTY4Sn-UiK3AxlXuLQe/view?usp=sharing"
+        }
+    ],
+    
+        "services": [
+          {
+            "titile": "Frontend Web Development",
+            "description": "Building responsive and interactive user interfaces using HTML, CSS, and React.js to ensure seamless user experiences.",
+            "extra": "Includes working with component-based architecture, state management with React hooks, and ensuring performance optimization. Projects are built with accessibility and SEO in mind."
+          },
+          {
+            "titile": "UI/UX Design with Figma",
+            "description": "Designing clean and intuitive layouts using Figma, focusing on user-centric design principles and usability.",
+            "extra": "Covers wireframing, prototyping, and design systems. Designs follow modern UI trends and are created with feedback-driven iterations."
+          },
+          {
+            "titile": "Responsive Web Design",
+            "description": "Developing mobile-friendly websites that adapt smoothly across all screen sizes and devices.",
+            "extra": "Utilizes media queries, flexbox, and grid layouts to ensure consistency across desktops, tablets, and phones. Emphasis on usability and visual balance."
+          },
+          {
+            "titile": "Design-to-Code Implementation",
+            "description": "Converting Figma designs into functional, pixel-perfect frontend code with clean structure and optimized styling.",
+            "extra": "Focus on semantic HTML, reusable CSS classes, and aligning exact measurements and typography from design to browser. Also ensures cross-browser compatibility."
+          }
+        ],
+      
+      
+    "contact":{
+        "email":"",
+        "phn":"",
+        "linkedin":""
+    }
+}
